@@ -1,4 +1,5 @@
 # Hey, I'm Eric Szczepanik!
 
 ----------------------------------------------------------
-I was a manager for duke MBB
+Bachelors of Electrical & Computer Engineering alumnus of NYIT 
+
