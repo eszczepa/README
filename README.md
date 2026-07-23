@@ -1,5 +1,37 @@
-# Hey, I'm Eric Szczepanik!
+# **Hi, I'm Eric Szczepanik!** 👋
 
-----------------------------------------------------------
-Bachelors of Electrical & Computer Engineering alumnus of NYIT 
+---
 
+🎓 **Bachelor of Science in Electrical & Computer Engineering** from [NYIT](https://www.nyit.edu)
+
+🎓 **Master of Business Management** from [Duke University](https://duke.edu)
+
+🏀 **Former Student Manager** for [Duke MBB](https://www.nytimes.com/2018/03/16/sports/duke-basketball-managers.html)
+
+Currently work for the **Charlotte Hornets** in their Game-Day Operations department while also serving as the **Director of Basketball Operations** for **Nilson Sports Agency**.
+
+I recently developed **[The Cap Coordinator](https://www.thecapcoordinator.com)**, a tool designed to help basketball fans, students, and front office professionals better understand the NBA Collective Bargaining Agreement and salary cap mechanics.
+
+I'm looking to pursue a role with an NBA front office as a **Cap Coordinator** or **Basketball Operations Associate**, combining my engineering background, business education, and passion for NBA roster construction.
+
+## 🔗 Some of my work...
+
+- 🌐 **The Cap Coordinator** – https://www.thecapcoordinator.com
+- 💼 **LinkedIn** – *Add your LinkedIn URL here*
+- 📂 **GitHub Repositories** – https://github.com/YOUR_USERNAME
+- 📄 **Resume** – *Add a PDF link or repository here*
+
+## 🛠️ My Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,vscode,github" />
+</p>
+
+## 📫 Connect with Me
+
+- LinkedIn: *Add your LinkedIn URL*
+- Email: *Add your preferred email address*
+
+---
+
+> *"Great teams are built through strategy, preparation, and attention to detail."*
