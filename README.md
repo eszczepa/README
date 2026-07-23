@@ -14,11 +14,10 @@ I recently developed **[The Cap Coordinator](https://www.thecapcoordinator.com)*
 
 I'm looking to pursue a role with an NBA front office as a **Cap Coordinator** or **Basketball Operations Associate**, combining my engineering background, business education, and passion for NBA roster construction.
 
-## 🔗 Some of my work...
+## 🔗 Useful Links...
 
 - 🌐 **The Cap Coordinator** – https://www.thecapcoordinator.com
 - 💼 **LinkedIn** – https://www.linkedin.com/in/eric-szczepanik
-- 📄 **Resume** – *Add a PDF link or repository here*
 
 ## 🛠️ My Toolbox
 
