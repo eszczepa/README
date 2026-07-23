@@ -17,8 +17,7 @@ I'm looking to pursue a role with an NBA front office as a **Cap Coordinator** o
 ## 🔗 Some of my work...
 
 - 🌐 **The Cap Coordinator** – https://www.thecapcoordinator.com
-- 💼 **LinkedIn** – *Add your LinkedIn URL here*
-- 📂 **GitHub Repositories** – https://github.com/YOUR_USERNAME
+- 💼 **LinkedIn** – https://www.linkedin.com/in/eric-szczepanik
 - 📄 **Resume** – *Add a PDF link or repository here*
 
 ## 🛠️ My Toolbox
@@ -27,11 +26,5 @@ I'm looking to pursue a role with an NBA front office as a **Cap Coordinator** o
   <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,vscode,github" />
 </p>
 
-## 📫 Connect with Me
-
-- LinkedIn: *Add your LinkedIn URL*
-- Email: *Add your preferred email address*
-
----
 
 > *"Great teams are built through strategy, preparation, and attention to detail."*
